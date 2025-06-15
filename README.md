@@ -46,6 +46,3 @@ Bridging the sim-to-real gap through domain adaptation and safe RL.
 Incorporating multi-agent modeling and social behavior prediction.
 
 Exploring hybrid approaches combining RL with symbolic or rule-based reasoning.
-
-Citation
-If referencing this work, please cite the seminar paper as:
